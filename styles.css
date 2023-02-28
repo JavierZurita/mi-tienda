@@ -1,0 +1,12 @@
+.main{
+    display: inline-flex;   
+    flex-wrap: wrap;
+
+}
+.main > div {
+    width: 200px;
+    height: 250px;
+    background-color: blue;
+    border: 1px solid black;
+    margin: 5px;
+}
