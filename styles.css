@@ -25,9 +25,6 @@ a{
 .header-left_1{
     display: flex;
 }
-li{
-    font-size: 20px;
-}
 .header-mid{
     text-align: center;
     width: 33%;
@@ -154,4 +151,7 @@ input{
 .footer-main p {
     text-align: left;
     padding-bottom: 10px;
+}
+.numtfno{
+    color: aquamarine;
 }
